@@ -1,0 +1,10 @@
+.DS_Store
+
+sdfgen
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+
+*.tga
+*.txt
